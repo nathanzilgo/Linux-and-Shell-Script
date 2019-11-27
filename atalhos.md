@@ -39,4 +39,9 @@ Terminal = false
 Type = Application
 Categories = Development;Application;Network;
 ```
+Quando sua aplicação não possuir um ícone na instalação, você pode baixar qualquer .png, colocar na pasta e utilizar no atalho.
 
+Salve o arquivo e se não aparecer ainda: 
+```
+sudo apt update
+```
